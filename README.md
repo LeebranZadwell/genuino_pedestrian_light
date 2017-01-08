@@ -1,8 +1,11 @@
 # pedestrian_light.ino
 
 **Discover**: Looping, blinking light that changes only when the user presses the button.
+
 **Time**: 30 MINUTES
+
 **Level**: 2 / 5
+
 **Builds on projects**: 2
 
 A fun little Genuino Uno project.
