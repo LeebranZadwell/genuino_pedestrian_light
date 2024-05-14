@@ -13,5 +13,7 @@ The programming is a little advanced for complete beginners, but it demonstrates
 
 ## Poorly drawn diagram
 
+![breadboard diagram](./diagram.png)
+
 Was really hoping diagram.png would be helpful. It doesn't really help.
 You will have to properly figure out the wiring yourself (based on the confusing diagram.)
